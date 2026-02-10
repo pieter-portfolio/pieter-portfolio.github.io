@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 ---
-<h1>Pieter Versloot | Rice University Class of 2027 </a></h1>
+<h1>Pieter Versloot | Rice University Class of 2027</h1>
 
 <h2>Quantitative Finance & Data Science Projects:</h2>
 
