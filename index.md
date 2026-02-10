@@ -2,8 +2,7 @@
 layout: single
 author_profile: true
 ---
-<h1>Pieter Versloot | Rice University Class of 2027</h1>
-
+<h1>Pieter D. Versloot | Rice Class of 2027</h1>
 <h2>Quantitative Finance & Data Science Projects:</h2>
 
 - <b>Portfolio Theory</b>
@@ -20,7 +19,6 @@ author_profile: true
 
 <div class="projects-grid">
 
----
 <style>
 .projects-grid{
   display:grid;
