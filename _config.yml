@@ -23,7 +23,7 @@ repository               : "academicpages/pieter-portfolio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "square-image.png"
+  avatar           : "square-image.jpg"
   name             : "Pieter D. Versloot"
   bio              : "Mathematical Economic Analysis & Finance"
   location         : "Houston, TX"
