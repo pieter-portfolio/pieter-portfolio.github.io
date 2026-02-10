@@ -14,11 +14,10 @@ author_profile: true
   
 <h2>Skills & Interests:</h2>
 <ul>
-  <li>Financial Modelling: Excel, 
+  <li>Financial Modelling: Excel</li> 
   <li>Statistical Modeling: Python, R</li>
   <li>Quantitative Finance: Commodities, Derivatives, Fixed Income</li>
 
-</ul>
 <div class="projects-grid">
 
 ---
