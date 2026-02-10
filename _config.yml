@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Pieter D. Versloot | Project Portfolio"
+title                    : "Project Portfolio"
 title_separator          : " | "
 name                     : &name "Pieter Versloot"
 description              : &description "Pieter Versloot's Project Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
