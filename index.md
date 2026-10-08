@@ -19,7 +19,7 @@ author_profile: true
   <li>Financial Modelling: Excel, VBA</li> 
   <li>Quantitative Finance: Derivatives, Structured Products, Commodities</li>
   <li>Platforms & Databases: Bloomberg Terminal, S&P Capital IQ, FactSet, PitchBook</li>
-</ul> </li>
+</ul>
 
 <div class="projects-grid">
 
