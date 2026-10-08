@@ -5,6 +5,8 @@ author_profile: true
 <h1>Pieter D. Versloot | Rice Class of 2027</h1>
 <h2>Quantitative Finance & Data Science Projects:</h2>
 
+- <b>Equity Derivatives & Structured Products</b>
+  - BBVA Intern Final Project: [Dividend Pricing Rule](/files/Dividend_Pricing_Rule.pdf)
 - <b>Portfolio Theory</b>
   - [Efficient Frontiers & Systematic Risk: A Visualization of Modern Portfolio Theory](https://sites.google.com/rice.edu/visualizing-portfolio-theory/home) 
 - <b>Commodities</b>
@@ -13,9 +15,11 @@ author_profile: true
   
 <h2>Skills & Interests:</h2>
 <ul>
-  <li>Financial Modelling: Excel</li> 
-  <li>Statistical Modeling: Python, R</li>
-  <li>Quantitative Finance: Commodities, Derivatives, Fixed Income</li>
+  <li>Data & Statistical Modeling: Python, R, SQL</li>
+  <li>Financial Modelling: Excel, VBA</li> 
+  <li>Quantitative Finance: Derivatives, Structured Products, Commodities</li>
+  <li>Platforms & Databases: Bloomberg Terminal, S&P Capital IQ, FactSet, PitchBook</li>
+</ul> </li>
 
 <div class="projects-grid">
 
