@@ -5,8 +5,9 @@ author_profile: true
 <h1>Pieter D. Versloot | Rice Class of 2027</h1>
 <h2>Quantitative Finance & Data Science Projects:</h2>
 
-- <b>Equity Derivatives & Structured Products</b>
-  - BBVA Intern Final Project: [Dividend Pricing Rule](/files/Dividend_Pricing_Rule.pdf)
+- <b>Options, Derivatives & Structured Products</b>
+  - [BBVA Equity Derivatives Trading Intern Project (Dividend Pricing Rule)](/files/Dividend_Pricing_Rule.pdf)
+  - [Black-Scholes Option Pricing](https://github.com/pieter-portfolio/vol-01-black-scholes) 
 - <b>Portfolio Theory</b>
   - [Efficient Frontiers & Systematic Risk: A Visualization of Modern Portfolio Theory](https://sites.google.com/rice.edu/visualizing-portfolio-theory/home) 
 - <b>Commodities</b>
