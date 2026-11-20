@@ -6,23 +6,19 @@ author_profile: true
 <h2>Quantitative Finance & Data Science Projects:</h2>
 
 - <b>Options, Derivatives & Structured Products</b>
-  - [BBVA Equity Derivatives Trading Intern Project: Dividend Pricing Rule](/files/Dividend_Pricing_Rule.pdf): pricing rule for dividend forecasts across 800+ stocks, adjusted for implied dividend volatility and the dividend risk premium.
-  - [Black-Scholes Option Pricing Repository](https://github.com/pieter-portfolio/vol-01-black-scholes): the baseline model, priced three ways and tested.
-    - 01: Closed-form pricer and no-arbitrage checks
-    - 02: Brownian motion, quadratic variation, Itô, GBM
-    - 03: Black-Scholes PDE, Feynman-Kac, finite-difference solver
-    - 04: Monte Carlo and variance reduction
-    - 05: Greeks and delta hedging, realized vs. implied vol *(in progress)*
-    - 06: Implied volatility and the smile *(upcoming)*
-    - 07: American options: binomial tree, Longstaff-Schwartz, PDE with early exercise *(planned)*
+  - [Dividend Pricing Rule](/files/Dividend_Pricing_Rule.pdf): BBVA equity derivatives internship project; dividend forecasts for 800+ stocks, adjusted for implied dividend volatility and the dividend risk premium.
+  - [Black-Scholes, End to End](https://github.com/pieter-portfolio/vol-01-black-scholes):
+    - Derives the model from Brownian motion and Itô calculus and prices options three ways (closed form, PDE, Monte Carlo)
+    - In progress: Greeks and delta hedging, comparing hedging P&L under realized vs. implied volatility.
+    - Next: implied volatility from an SPX option chain, mapping the smile, skew and term structure.
+    - Planned: American options via binomial tree, Longstaff-Schwartz and an early-exercise PDE.
 
 - <b>Portfolio Theory</b>
-  - [Efficient Frontiers & Systematic Risk: A Visualization of Modern Portfolio Theory](https://sites.google.com/rice.edu/visualizing-portfolio-theory/home): interactive visualization of the efficient frontier, CML and CAPM; Best Visual at the Rice Data Showcase.
+  - [Visualizing Modern Portfolio Theory](https://sites.google.com/rice.edu/visualizing-portfolio-theory/home): interactive visualization of the efficient frontier, CML and CAPM; Best Visual at the Rice Data Showcase.
 
 - <b>Commodities</b>
-  - [Rice Energy Trading Group: WTI–Brent Basis Trade Pitch](https://docs.google.com/presentation/d/1msbzvXIJm1xnTtIMkXJ5lgGomaB42P4fbBi6NKqcfx4/edit?usp=sharing): long Brent / short WTI call combining supply, demand and geopolitical analysis with a Lasso model forecasting the weekly basis (0.80 Sharpe in a 2020–2025 backtest).
-  - [HH–TTF Natural Gas Basis Forecasting](https://docs.google.com/presentation/d/1eUlRoAZMys2JvOSG8RVJl7GaERJn6B6n04v4QWFezrw/edit?usp=sharing): five machine-learning models forecasting the weekly Henry Hub–TTF spread from price, weather, rig count and financial-stress data; the Elastic Net trading signal returned a 2.51 Sharpe and 63.8% win rate out of sample (2023).
-  - 
+  - [WTI–Brent Basis Trade Pitch](https://docs.google.com/presentation/d/1msbzvXIJm1xnTtIMkXJ5lgGomaB42P4fbBi6NKqcfx4/edit?usp=sharing): Rice Energy Trading Group pitch to go long Brent / short WTI, combining supply, demand and geopolitical analysis with a Lasso model of the weekly basis.
+  - [HH–TTF Natural Gas Basis Forecasting](https://docs.google.com/presentation/d/1eUlRoAZMys2JvOSG8RVJl7GaERJn6B6n04v4QWFezrw/edit?usp=sharing): five machine-learning models forecasting the weekly Henry Hub–TTF spread from price, weather, rig count and financial-stress data.
 <h2>Skills & Interests:</h2>
 <ul>
   <li>Data & Statistical Modeling: Python, R, SQL</li>
