@@ -6,19 +6,16 @@ author_profile: true
 <h2>Quantitative Finance & Data Science Projects:</h2>
 
 - <b>Options, Derivatives & Structured Products</b>
-  - [Dividend Pricing Rule](/files/Dividend_Pricing_Rule.pdf): BBVA equity derivatives internship project; dividend forecasts for 800+ stocks, adjusted for implied dividend volatility and the dividend risk premium.
-  - [Black-Scholes, End to End](https://github.com/pieter-portfolio/vol-01-black-scholes):
-    - Derives the model from Brownian motion and Itô calculus and prices options three ways (closed form, PDE, Monte Carlo)
-    - In progress: Greeks and delta hedging, comparing hedging P&L under realized vs. implied volatility.
-    - Next: implied volatility from an SPX option chain, mapping the smile, skew and term structure.
-    - Planned: American options via binomial tree, Longstaff-Schwartz and an early-exercise PDE.
+  - [Dividend Pricing Rule](/files/Dividend_Pricing_Rule.pdf): BBVA Final Intern Project: Forward pricing and dividend forecasts for 800+ stocks using implied vol and dividend risk premium.
+  - [Black-Scholes, End to End](https://github.com/pieter-portfolio/vol-01-black-scholes): Pricing via closed form, PDE and Monte Carlo; Greeks, delta hedging, the vol smile and American options.
 
 - <b>Portfolio Theory</b>
-  - [Visualizing Modern Portfolio Theory](https://sites.google.com/rice.edu/visualizing-portfolio-theory/home): interactive visualization of the efficient frontier, CML and CAPM; Best Visual at the Rice Data Showcase.
+  - [Visualizing Modern Portfolio Theory](https://sites.google.com/rice.edu/visualizing-portfolio-theory/home): Efficient frontier, CML and CAPM visualized; Best Visual at the Rice Data Showcase.
 
 - <b>Commodities</b>
-  - [WTI–Brent Basis Trade Pitch](https://docs.google.com/presentation/d/1msbzvXIJm1xnTtIMkXJ5lgGomaB42P4fbBi6NKqcfx4/edit?usp=sharing): Rice Energy Trading Group pitch to go long Brent / short WTI, combining supply, demand and geopolitical analysis with a Lasso model of the weekly basis.
-  - [HH–TTF Natural Gas Basis Forecasting](https://docs.google.com/presentation/d/1eUlRoAZMys2JvOSG8RVJl7GaERJn6B6n04v4QWFezrw/edit?usp=sharing): five machine-learning models forecasting the weekly Henry Hub–TTF spread from price, weather, rig count and financial-stress data.
+  - [WTI–Brent Basis Trade Pitch](https://docs.google.com/presentation/d/1msbzvXIJm1xnTtIMkXJ5lgGomaB42P4fbBi6NKqcfx4/edit?usp=sharing): Long Brent / short WTI pitch backed by a Lasso basis model backtest.
+  - [HH–TTF Natural Gas Basis Forecasting](https://docs.google.com/presentation/d/1eUlRoAZMys2JvOSG8RVJl7GaERJn6B6n04v4QWFezrw/edit?usp=sharing): ML models forecasting the weekly gas spread.
+
 <h2>Skills & Interests:</h2>
 <ul>
   <li>Data & Statistical Modeling: Python, R, SQL</li>
