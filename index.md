@@ -7,7 +7,7 @@ author_profile: true
 
 - <b>Options, Derivatives & Structured Products</b>
   - [Dividend Pricing Rule](/files/Dividend_Pricing_Rule.pdf): BBVA Final Intern Project: Forward pricing and dividend forecasts for 800+ stocks using implied vol and dividend risk premium.
-  - [Black-Scholes, End to End](https://github.com/pieter-portfolio/vol-01-black-scholes): Pricing via closed form, PDE and Monte Carlo; Greeks, delta hedging, the vol smile and American options.
+  - [Black-Scholes Options Pricing](https://github.com/pieter-portfolio/vol-01-black-scholes): Pricing via closed form, PDE and Monte Carlo; Greeks, delta hedging, the vol smile and American options.
 
 - <b>Portfolio Theory</b>
   - [Visualizing Modern Portfolio Theory](https://sites.google.com/rice.edu/visualizing-portfolio-theory/home): Efficient frontier, CML and CAPM visualized; Best Visual at the Rice Data Showcase.
